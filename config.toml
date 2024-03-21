@@ -57,14 +57,14 @@ itunes_subscribe = "https://podcasts.apple.com/us/podcast/new-projections/id1412
 google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM3OTM2ODE3My9zb3VuZHMucnNz"
 soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "" # TODO
+description = "From an interest in the people that create maps and data visualizations, comes this series of conversations discussing history, change and the potential of future. An ongoing discussion of the frontiers of discovery and understanding."
 media_prefix = "https://newprojectionspodcast.com/" # CHANGE TO LOCALHOST FOR LOCAL DEVELOPMENT
 disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2024 Curtis Bird" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "Podcast by Curtis Bird" #no markdown or HTML
     itunes_author = "Curtis Bird" #no markdown or HTML
-    itunes_summary = "" # TOTO -  Limited to 4000 characters or less, plain text, no HTML
+    itunes_summary = "From an interest in the people that create maps and data visualizations, comes this series of conversations discussing history, change and the potential of future. An ongoing discussion of the frontiers of discovery and understanding." # TOTO -  Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Curtis Bird"
     itunes_owner_email = "newprojectionscast@gmail.com" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on Apple Podcasts. It will not be publicly displayed on Apple Podcasts.
     itunes_image = "https://newprojectionspodcast.com/img/logo.png"
