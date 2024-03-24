@@ -60,12 +60,12 @@ disable_title_caps = "true"
 # truncate = "100"
 # about_logo = "/img/hugocast.png"
 copyright_notice = "Copyright 2024 [Curtis Bird](https://oldmapgallery.com/)"
-# youtube_subscribe = "https://www.youtube.com/@theoldmapgallery4158?sub_confirmation=1"
+youtube_subscribe = "https://www.youtube.com/@theoldmapgallery4158?sub_confirmation=1"
 itunes_subscribe = "https://podcasts.apple.com/us/podcast/new-projections/id1412580312?ign-mpt=uo%3D4&mt=2"
-google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM3OTM2ODE3My9zb3VuZHMucnNz"
-soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
+# google_play_subscribe = "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjM3OTM2ODE3My9zb3VuZHMucnNz"
+# soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 # rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Produced from an interest in historic maps and data vizualizations, comes this series of interviews looking at the work of the past, practices of today and the potentials of the future. An ongoing conversation on the frontiers of understanding and approaches to their exploration."
+description = "**Welcome to the New Projections Podcast!** Produced from an interest in historic maps and data vizualizations, comes this series of interviews looking at the work of the past, practices of today and the potentials of the future. An ongoing conversation on the frontiers of understanding and approaches to their exploration."
 media_prefix = "https://newprojectionspodcast.com/" # CHANGE TO LOCALHOST FOR LOCAL DEVELOPMENT
 disqusShortname = ""
   [params.feed]
