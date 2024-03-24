@@ -4,4 +4,7 @@ title = "contact"
 
 +++
 
+For questions or suggestions
+
+Feel free to contact us at 
 Reach out at [newprojectionscast@gmail.com](mailto:newprojectionscast@gmail.com)
