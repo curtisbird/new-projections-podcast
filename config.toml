@@ -86,4 +86,4 @@ disqusShortname = ""
   [params.social]
     youtube = "@theoldmapgallery4158"
     # Short form in linkedin will link to a user's page so use long form for company pages
-    mastodon = "https://sciencemastodon.com/@oldmapgallery"
+    mastodon = "https://mastodon.social/@oldmapgallery"
